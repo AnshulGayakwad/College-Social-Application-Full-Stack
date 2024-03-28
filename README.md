@@ -2,7 +2,7 @@ Hi,
 Steps to Run the Project :-
 1) Download & unzip project
 2) Go inside FrontEnd folder
-3) Opem Command prompt there and run command :- npm rum dev
+3) Opem Command prompt there and run command :- 1. npm install     2.npm rum dev
 4) Then go to BackEnd folder
 5) Configure the application.properties file :- put your DataBase Credentials such as - username, password & database name
 6) After that run the backend project
