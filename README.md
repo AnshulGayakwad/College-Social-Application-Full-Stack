@@ -1,5 +1,5 @@
 Hi all,
-This project mainly works on Java Spring Boot, React, HTML etc.
+This project mainly works on Java Spring Boot, React, SQL, HTML etc.
 
 
 Steps to Run the Project :-
