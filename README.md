@@ -1,4 +1,7 @@
-Hi,
+Hi all,
+This project mainly works on Java Spring Boot, React, HTML etc.
+
+
 Steps to Run the Project :-
 1) Download & unzip project
 2) Go inside FrontEnd folder
